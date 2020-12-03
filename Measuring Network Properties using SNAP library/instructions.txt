@@ -1,0 +1,6 @@
+Sasinandan Pedavegi
+17CS10032
+
+os:			Ubuntu 20.04
+python version: 	Python 3.7.6
+
