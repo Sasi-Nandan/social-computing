@@ -1,4 +1,0 @@
-How to run the code:
-    1. make the graph file and the source code files be present in the same directory
-    2. now run the file gen_centrality.py to generate the centrality files in the directory centralities
-    3. then, run the file analyze_centrality.py to get the number of overlapping nodes in the top 100 ranking
